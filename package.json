@@ -1,0 +1,27 @@
+{
+  "name": "wizardcup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.2.0",
+    "@supabase/supabase-js": "^2.33.1",
+    "axios": "^1.7.2",
+    "canvas": "^2.11.2",
+    "discord-api-types": "^0.37.79",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "goog": "^0.2.1",
+    "googleapis": "^70.0.0",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.11.3",
+    "xlsx": "^0.18.5"
+  }
+}
