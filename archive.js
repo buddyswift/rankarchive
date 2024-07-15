@@ -5,7 +5,7 @@ const { Client, GatewayIntentBits, Partials } = require('discord.js');
 const token = process.env.BOT_TOKEN;
 
 // Configuration details directly in the code
-const clientId = '1140919343547420763';
+const clientId = '1144332486625742848';
 const guildId = '399087472291610646';
 const sourceChannelId = '1196599858841276466';
 const targetThreadId = '1207160904156717107';
