@@ -44,7 +44,7 @@ client.on('interactionCreate', async interaction => {
         }
 
         const twoWeeksAgo = new Date();
-        twoWeeksAgo.setDate(twoWeeksAgo.getDate() - 14);
+        twoWeeksAgo.setDate(twoWeeksAgo.getDate() - 30);
 
         let messages = await fetchMessages(sourceChannel, twoWeeksAgo);
 
